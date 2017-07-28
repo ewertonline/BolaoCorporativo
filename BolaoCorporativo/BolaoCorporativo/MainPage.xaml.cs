@@ -13,7 +13,7 @@ namespace BolaoCorporativo
         {
             InitializeComponent();
 
-            throw new NotImplementedException()
+            throw new NotImplementedException();
         }
     }
 }
