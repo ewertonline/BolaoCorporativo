@@ -12,8 +12,6 @@ namespace BolaoCorporativo
         public MainPage()
         {
             InitializeComponent();
-
-            throw new NotImplementedException();
         }
     }
 }
